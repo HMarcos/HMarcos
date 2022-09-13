@@ -28,12 +28,15 @@ Sobre mim:
   <code><img title="React" height="25" src="images/react-2.svg"></code>
   <code><img title="Git" height="40" src="images/git-original.svg"></code>
   <code><img title="GitHub" height="40" src="images/github.svg"></code>
+  <br>
   <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
   <code><img title="MongoDB" height="25" src="images/mongodb-icon-1.svg"></code>
   <code><img title="Jest" height="40" src="images/jest-2.svg"></code>
+  <code><img title="Docker" height="40" src="images/docker.svg"></code>
+  <code><img title="AWS" height="40" src="images/aws.svg"></code>
   <code><img title="Visual Studio Code" height="40" src="images/vscode.png"></code>
   <code><img title="Microsoft Visual Studio" height="40" src="images/visualstudio.png"></code>
-  <code><img title="OpenCV" height="40" src="images/opencv.png"></code>
-  <code><img title="TensorFlow" height="40" src="images/tensorflow.png"></code>
-  <code><img title="Keras" height="40" src="images/keras.png"></code>
+  <code><img title="OpenCV" height="40" src="images/opencv.svg"></code>
+  <code><img title="TensorFlow" height="40" src="images/tensorflow.svg"></code>
+  <code><img title="Keras" height="40" src="images/keras.svg"></code>
 </p>
