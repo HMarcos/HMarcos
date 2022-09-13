@@ -15,7 +15,7 @@ Sobre mim:
 - ⚡ Fato curioso: sou Árbitro Nacional de Badminton pela CBBd.
 
 
-<h2> 🛠 &nbsp;Ferramentas e Habilidades</h2>
+<h2> 🛠 &nbsp;Tecnologias e Ferramentas</h2>
  <p align="center">
   <code><img title="TypeScript" height="40" src="images/typescript.svg"></code>
   <code><img title="NodeJs" height="40" src="images/nodejs-icon.svg"></code>
@@ -40,3 +40,28 @@ Sobre mim:
   <code><img title="TensorFlow" height="40" src="images/tensorflow.svg"></code>
   <code><img title="Keras" height="40" src="images/keras.svg"></code>
 </p>
+
+<h2>ℹ️ &nbsp;Github Info</h2>
+
+<h3>⚡ Github Stats</h3>
+
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HMarcos&show_icons=true&locale=en&hide_border=true" alt="HMarcos" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=HMarcos&show_icons=true&locale=en&layout=compact&langs_count=7&hide_border=true&hide=c" alt="HMarcos"/>
+ <img src="https://activity-graph.herokuapp.com/graph?username=HMarcos&theme=react-dark&point=000000&hide_border=true&bg_color=ffffff" width="100%"/>
+</div>
+
+<h3>🔥 Github Streaks</h3>
+
+<div>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HMarcos&" alt="HMarcos" /></p>
+</div>
+
+<h3>🏆 Github Achievements</h3>
+
+<div>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HMarcos&margin-w=5" alt="HMarcos" /></a> </p>
+</div>
+
+
+
