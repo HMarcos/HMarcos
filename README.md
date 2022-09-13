@@ -21,30 +21,19 @@ Sobre mim:
   <code><img title="NodeJs" height="40" src="images/nodejs-icon.svg"></code>
   <code><img title="C" height="40" src="images/c.svg"></code>
   <code><img title="C++" height="40" src="images/cpp.svg"></code>
-  <!-- <code><img title="C#" height="25" src="images/cSharp.svg"></code> -->
   <code><img title="Python" height="40" src="images/python-original.svg"></code>
-  <!-- <code><img title="Django" height="25" src="images/django.png"></code> -->
   <code><img title="Javascript" height="40" src="images/javascript.svg"></code>
   <code><img title="HTML5" height="40" src="images/html5.svg"></code>
   <code><img title="CSS" height="40" src="images/css.svg"></code>
   <code><img title="React" height="25" src="images/react-2.svg"></code>
-  <!-- <code><img title="Redux" height="25" src="images/redux.svg"></code> -->
-  <!-- <code><img title="AngularJS" height="25" src="images/angularjs.png"></code> -->
   <code><img title="Git" height="40" src="images/git-original.svg"></code>
-  <!-- <code><img title=".NetCore" height="25" src="images/dotnetcore.svg"></code> -->
+  <code><img title="GitHub" height="40" src="images/github.svg"></code>
   <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
   <code><img title="MongoDB" height="25" src="images/mongodb-icon-1.svg"></code>
+  <code><img title="Jest" height="40" src="images/jest-2.svg"></code>
   <code><img title="Visual Studio Code" height="40" src="images/vscode.png"></code>
   <code><img title="Microsoft Visual Studio" height="40" src="images/visualstudio.png"></code>
-  <code><img title="Jest" height="40" src="images/jest-2.svg"></code>
-  <!-- <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code> -->
-  <!-- <code><img title="Java" height="25" src="images/java-original.svg"></code> -->
-  <!-- <code><img title="JSON" height="25" src="images/json.svg"></code> -->
-  <!-- <code><img title="Unity" height="25" src="images/unity3d.svg"></code> -->
-  <!-- <code><img title="Android" height="25" src="images/android.svg"></code> -->
-  <code><img title="GitHub" height="40" src="images/github.svg"></code>
-  <!-- <code><img title="MySQL" height="25" src="images/mysql.svg"></code> -->
-  <!-- <code><img title="npm" height="25" src="images/npm.svg"></code> -->
-  <!-- <code><img title="PHP" height="25" src="images/php.svg"></code> -->
-  <!-- <code><img title="Flask" height="25" src="images/flask.png"></code> -->
+  <code><img title="OpenCV" height="40" src="images/opencv.png"></code>
+  <code><img title="TensorFlow" height="40" src="images/tensorflow.png"></code>
+  <code><img title="Keras" height="40" src="images/keras.png"></code>
 </p>
