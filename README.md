@@ -1,13 +1,12 @@
 ## Olá, me chamo Marcos Henrique! 👋
 
-![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=[https://www.linkedin.com/in/manumanoj0010/](https://www.linkedin.com/in/marcos-henrique-fernandes-marcone/)) [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcosmarcone48@gmail.com)](mailto:marcosmarcone48@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/hmarcos01/)](https://www.instagram.com/hmarcos01/) 
+![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=[https://www.linkedin.com/in/manumanoj0010/](https://www.linkedin.com/in/marcos-henrique-fernandes-marcone/)) [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcosmarcone48@gmail.com)](mailto:marcosmarcone48@gmail.com)  
 ### Bem-vindo ao meu perfil GitHub 👋  <img src="https://komarev.com/ghpvc/?username=HMarcos0&label=Profile%20views&color=0e75b6&style=flat" alt="HMarcos" /> ![GitHub followers](https://img.shields.io/github/followers/HMarcos) ![GitHub User's stars](https://img.shields.io/github/stars/HMarcos)
 
 Sobre mim:
-
-- 🎓 Atualmente sou estudante de Engenharia de Computação pela UFRN.
-- 🔭 Estou em um Bootcamp da Driven para me tornar um Desenvolvedor Web Full Stack.
-- 🌱 Estou apredendo sobre HTML5, CSS, JavaScript, TypeScript, Python, POO, Docker, AWS...
+- 🔭 Desenvolvedor Web Full Stack com formação pela Driven Education.
+- 🎓 Estudante de Engenharia de Computação pela UFRN.
+- 🌱 Conhecimento em HTML5, CSS, JavaScript, TypeScript, Python, POO, Docker, AWS...
 - 👯 Busco colaborar em projetos Web, como também em projetos nas áres Ciência de Dados, Visão Computacional e Deep Learning.
 - 💻 Gosto de aprender diversos conteúdos sobre computação desde o desenvolvimento de aplicativos com aprendizado de máquina até as etruturas mais básicas dos computadores.
 - 📫 Entre em contato por: [marcosmarcone48@gmail.com](mailto:marcosmarcone48@gmail.com)
