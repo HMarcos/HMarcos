@@ -4,7 +4,7 @@
 ### Bem-vindo ao meu perfil GitHub 👋  <img src="https://komarev.com/ghpvc/?username=HMarcos0&label=Profile%20views&color=0e75b6&style=flat" alt="HMarcos" /> ![GitHub followers](https://img.shields.io/github/followers/HMarcos) ![GitHub User's stars](https://img.shields.io/github/stars/HMarcos)
 
 Sobre mim:
-- 🔭 Desenvolvedor Web Full Stack com formação pela Driven Education.
+- 🔭 Analista de Desenvolvimento de Software pela TOTVS.
 - 🎓 Estudante de Engenharia de Computação pela UFRN.
 - 🌱 Conhecimento em HTML5, CSS, JavaScript, TypeScript, Python, POO, Docker, AWS...
 - 👯 Busco colaborar em projetos Web, como também em projetos nas áres Ciência de Dados, Visão Computacional e Deep Learning.
