@@ -10,7 +10,7 @@ Sobre mim:
 - 👯 Busco colaborar em projetos Web, como também em projetos nas áres Ciência de Dados, Visão Computacional e Deep Learning.
 - 💻 Gosto de aprender diversos conteúdos sobre computação desde o desenvolvimento de aplicativos com aprendizado de máquina até as etruturas mais básicas dos computadores.
 - 📫 Entre em contato por: [marcosmarcone48@gmail.com](mailto:marcosmarcone48@gmail.com)
-- 😄 Pronouns: ele/dele
+- 😄 Pronomes: ele/dele
 - ⚡ Fato curioso: sou Árbitro Nacional de Badminton pela CBBd.
 
 
